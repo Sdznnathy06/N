@@ -2,7 +2,17 @@ body {
     background-color: blue 
   text-align: center 
 }
+
    h1 {
     color: Pink 
    }
+.rosa {
+color: azul 
+} 
+.azul { 
+    background-color: Pink 
+} 
+p {
+    font-size: 25px 
+}   
    
